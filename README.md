@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnanefeOsah
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning Modern OpenGL in C++
-- 💞️ I’m looking for an internshiip to gain experience and use the skills I have gained as a computer science student to make a positive impact in my community
+- 💞️ I’m looking for an internship to gain experience and use the skills I have gained as a computer science student to make a positive impact in my community
 - 📫 You can reach me by email at onanefeosah@icloud.com or phone 4379925663
 
 <!---
