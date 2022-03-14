@@ -16,11 +16,16 @@ Hi! I'm Efe Osah, a 4th year student at the University of Windsor. I'm currently
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"> `HTML`
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828"> `CSS`
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828"> `Python`
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828"> `Java`
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828"> <--Java-->
+  <img src="https://img.shields.io/badge/-C#-98b982?style=for-the-badge&logo=csharp&logoColor=98b982&labelColor=282828"> <--C#-->
+  <img src="https://img.shields.io/badge/-C++-98b982?style=for-the-badge&logo=cplusplus&logoColor=98b982&labelColor=282828"> <--C++-->
+  <img src="https://img.shields.io/badge/-Unity3D-98b982?style=for-the-badge&logo=unity&logoColor=98b982&labelColor=282828"> <--Unity3D-->
+  <img src="https://img.shields.io/badge/-Git-98b982?style=for-the-badge&logo=git&logoColor=98b982&labelColor=282828"> <--Git-->
+  
+  
   
 </div>
 </p>
