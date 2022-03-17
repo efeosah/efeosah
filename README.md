@@ -46,6 +46,10 @@ if __name__ == '__main__':
     me = Intro()
 ```
 
+<h1 align="center">
+  <b>About me
+  </b>
+</h1>
 
 
 ## My Statistics
