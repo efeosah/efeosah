@@ -24,6 +24,10 @@ Hi! I'm Efe Osah, a 4th year student at the University of Windsor. I'm currently
   <img src="https://img.shields.io/badge/-C++-yellow?style=for-the-badge&logo=cplusplus&logoColor=yellow&labelColor=282828">
   <img src="https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=282828">
   <img src="https://img.shields.io/badge/-Git-purple?style=for-the-badge&logo=git&logoColor=purple&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=282828">
+  
+  
   
   
 </div>
