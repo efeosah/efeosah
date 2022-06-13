@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://efeosah.netlify.app/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=efeosah&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=efeosah&theme=gruvbox&hide_border=true" />
   </a>
